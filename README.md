@@ -3,6 +3,7 @@
 Using the K-means algorithm for image compression
 ```
 ## How to execute
+Open the project in Eclipse and set up the run configurations or run using command line.
 ### Compile
 ```
 javac KMeans.java
